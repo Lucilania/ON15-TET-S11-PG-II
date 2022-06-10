@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "prato": "Pão de queijo",
+        "preco": "10,00",
+        "descricao": "Polvilho, queijo",
+        "imagem": "https://pao-de-queijo.com/wp-content/uploads/2020/08/pao-de-queijo.png"
+        
+    },
+    {
+        "id": 2,
+        "prato": "Bolo de Fubá",
+        "preco": "5,00",
+        "descricao": "Bolo",
+        "imagem": "https://s2.glbimg.com/TOcaFXp0woSwczWX19Sj8KVFvVs=/0x0:1080x608/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2022/N/s/nJJFFWTRCf0JusEVPxmg/capa-materia-gshow-39-.png"
+    },
+    {
+        "id": 3,
+        "prato": "Queimadinha",
+        "preco": "3,00",
+        "descricao": "Leite",
+        "imagem": "https://img.itdg.com.br/tdg/images/recipes/000/056/157/343116/343116_original.jpg?mode=crop&width=710&height=400"
+    }
+]
